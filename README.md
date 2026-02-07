@@ -82,6 +82,8 @@ python prep_data.py
 python segmentation.py
 python churn_model.py
 streamlit run app.py
+working output link http://localhost:8501
+
 
 
 ✅ Key Outputs
