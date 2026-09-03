@@ -96,3 +96,5 @@ Churn Prediction using Random Forest
 
 Gursehaj Singh
 Customer Segmentation & Churn Analytics Project
+
+lIVE DEMO:  https://drive.google.com/drive/folders/1kp5nd73IWqvP_CKqUKwNajThj0tTmyLX?usp=sharing
